@@ -1,0 +1,1 @@
+In this repository you may find the data and the codes necessary to replicate the reported results in our manuscript, "The majority of Canadians likely behaved as myopic rationalists rather than success-based learners when deciding on their first dose of COVID-19 vaccination".  The Python code used here also depends on several packages.
